@@ -6,3 +6,7 @@ for {set i 3} {$i < 10} {incr i} {
 	puts "this is increase: $i"
 } 
 
+proc man {name} {
+	puts "the mount everest:$name"
+}
+man "tok"
