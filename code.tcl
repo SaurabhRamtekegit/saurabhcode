@@ -10,3 +10,5 @@ proc man {name} {
 	puts "the mount everest:$name"
 }
 man "tok"
+
+set i 10
