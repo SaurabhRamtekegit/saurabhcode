@@ -12,3 +12,4 @@ proc man {name} {
 man "tok"
 
 set i 10
+set i 98
